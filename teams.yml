@@ -100,7 +100,9 @@ UTK-ResearchComputing-Job-Trace-and-Storage-Analysis:
 WST:
   filename: WST.md
   members: !!set
+    audris: null
     bklein3: null
+    rlinder: null
 Whale_Location_Analyzer:
   filename: Whale_Location_Analyzer.md
   members: !!set
