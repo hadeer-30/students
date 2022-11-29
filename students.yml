@@ -462,6 +462,7 @@ dwhite75:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCqzJuuHUWHXSVVa6TD2T0y68nt5F5QQukxv9SeqLtTLGUaEqQC16dk7momI/5PqtJ3vvaMVpApQek8QwwtCIkhzHlpx+drkRPP0IdXhckOahvSIPgyjy7k0JIfLjekNvxmIAn5w4szQ9j/lhI0aUgNcteh64/cxzr7SNkGbbp+fdWqmnywCTEa/NU3Kr+upnuR9u49vlZg3osMRRNUbGcTW5Cx23cHBU8x9WHkC/5+IKkfUEjhGcjNDgyT8FPmnzkf8kEwFygqrwBzJlQW/nkz9y1XJcDVZf5fo8wTHLPOIB+/r0ubvcFTpoW3pBJw+dFTKfzBfaOP3w050Qr+GIvvej3Kz8qn84y+1/FV+YZNcnkhEW7wYYYKXg0KZUQ9GHvXUnVwueWfLG2XNrY2M7IZIrm0xy7elh1UKA8pZtAuJnEwmwuMwliANBWV/jspx2caxnKDfbJUntwji8n7IF7iu8pt1zTJ18733zEX03Sf2ws6ZPhNgq0oZ0OQHiejsBt3Yt/yTXvJVF2ygWUOQpaFYG7cmJ2UGFruZ0G6v3Jnd4Tnqv88y/3qu06y7rx09WEJBKs5GPosfS6w4GqGZ9PvGY8oDwahs/t222eC0ju49TmiZaN3r0ZBpcdZzxFK2BrLbtTYorR0zQj42Wv8JZR0DWtXi9KrtTRnvBTiviLBJw==
   lastname: White
   port: 7773
+  team: reddit-analysis
 dwill148:
   container:
     name: fdac22_dwill148
@@ -1114,6 +1115,7 @@ ssuresh6:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGtn4VMdZxHa691Mjk8hBfuS+iBG8G/FDIecFX41RUbh
   lastname: Suresh
   port: 7806
+  team: LeagueBuildCalculator
 tainley:
   container:
     name: fdac22_tainley

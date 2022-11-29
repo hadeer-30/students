@@ -29,6 +29,7 @@ LeagueBuildCalculator:
   members: !!set
     aartates: null
     batkhamj: null
+    ssuresh6: null
     wparham1: null
 NFL-upset-prediction:
   filename: NFL-upset-prediction.md
@@ -187,6 +188,7 @@ reddit-analysis:
   members: !!set
     amcdan23: null
     csmit402: null
+    dwhite75: null
     lwrinkle: null
 terrainwarning:
   filename: terrainwarning.md
